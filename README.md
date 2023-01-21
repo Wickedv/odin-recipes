@@ -1,0 +1,1 @@
+This is first project from odin-project where i am going make a bare-bone website with html only.
